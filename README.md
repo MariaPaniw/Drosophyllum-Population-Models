@@ -1,5 +1,5 @@
 # Files and code for "Accounting for uncertainty in dormant life stages in stochastic demographic models"
-DOI: 10.1111/oik.03696
+[DOI: 10.1111/oik.03696](http://onlinelibrary.wiley.com/doi/10.1111/oik.03696/abstract)
 
 **Data files**: 
 
